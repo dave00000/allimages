@@ -89,7 +89,7 @@ int main(int argc,char* argv[])
 {
 	if (argc != 3)
 	{
-		printf("Invalid arguments. Try [./ImageGen x y]\n");
+		printf("Invalid arguments. Try [./all x y]\n");
 		exit(0);
 	}
 
